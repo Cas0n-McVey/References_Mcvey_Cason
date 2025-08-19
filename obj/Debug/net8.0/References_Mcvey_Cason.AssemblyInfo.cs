@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("References_Mcvey_Cason")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234262096fb277848975c5e17a9e449f509c500f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e714686b67c566bae720cbe8bb12bcb9c0e557")]
 [assembly: System.Reflection.AssemblyProductAttribute("References_Mcvey_Cason")]
 [assembly: System.Reflection.AssemblyTitleAttribute("References_Mcvey_Cason")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
