@@ -1,0 +1,14 @@
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\bin\Debug\net8.0\References_Mcvey_Cason.exe
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\bin\Debug\net8.0\References_Mcvey_Cason.deps.json
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\bin\Debug\net8.0\References_Mcvey_Cason.runtimeconfig.json
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\bin\Debug\net8.0\References_Mcvey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\bin\Debug\net8.0\References_Mcvey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.AssemblyInfoInputs.cache
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.AssemblyInfo.cs
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.csproj.CoreCompileInputs.cache
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\refint\References_Mcvey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\References_Mcvey_Cason.genruntimeconfig.cache
+C:\Users\CASONMCVEY\source\repos\References_Mcvey_Cason\References_Mcvey_Cason\obj\Debug\net8.0\ref\References_Mcvey_Cason.dll
